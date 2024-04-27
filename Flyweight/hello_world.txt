@@ -1,0 +1,16 @@
+H, Font: Arial, Color: Red, Size: 12
+3, Font: Calibri, Color: Blue, Size: 14
+l, Font: Verdana, Color: Black, Size: 16
+l, Font: Helvetica, Color: Purple, Size: 18
+o, Font: Arial, Color: Red, Size: 12
+W, Font: Calibri, Color: Blue, Size: 14
+o, Font: Verdana, Color: Black, Size: 16
+r, Font: Helvetica, Color: Purple, Size: 18
+l, Font: Arial, Color: Red, Size: 12
+d, Font: Calibri, Color: Blue, Size: 14
+C, Font: Verdana, Color: Black, Size: 16
+S, Font: Helvetica, Color: Purple, Size: 18
+4, Font: Arial, Color: Red, Size: 12
+8, Font: Calibri, Color: Blue, Size: 14
+0, Font: Verdana, Color: Black, Size: 16
+0, Font: Helvetica, Color: Purple, Size: 18
